@@ -61,13 +61,20 @@ Treemap highlighting crash distribution by region.
 
 ##  How to View
 
-Option 1:
+##  Option 1:
+Live Interactive Dashboard
+
+View the published dashboard on Tableau Public:
+
+🔗 [View Dashboard](https://tinyurl.com/mtv9jv7a)
+
+Option 2:
 Open the Tableau file:
 ```
 dashboard/Queensland_Crash_Dashboard.twb
 ```
 
-Option 2:
+Option 3:
 View screenshots in the `/screenshots` folder.
 
 ---
